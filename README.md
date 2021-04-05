@@ -1,16 +1,26 @@
 # flutter_app_test
 
-A new Flutter application.
+A new and competitive Flutter application.
 
-## Getting Started
+It is initially designed to become a calculator app, specified for the engineering students, capable of solving ODE, PDE, SDE and also support $\LaTeX$ output
 
-This project is a starting point for a Flutter application.
+I set many goals for different periods:
 
-A few resources to get you started if this is your first Flutter project:
+### Period 1
+* Realize the basic calculating app features.
+* Add the $\LaTeX$ support output features.
+* Add the extra calculating features, such as exchange rate, calling transformation, Programmer mode.
+### Period 2
+* Add the plotting features
+* Add the 3D plotting features
+> maybe the three.js dart interface three.dart??
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Period 3
+* Add the differential equations solver, which is capable of calculating ODE, PDE, SDE
+* Add the linear algebra solver, introduce the NumPy function to this app
+* Add the symbolic computing ability, introduce the SymPy functions to this app
+* Add the complex computing
+### Period 4
+* Add the sudoku game, the app can generate the sudoku game
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
