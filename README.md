@@ -5,7 +5,7 @@ I have divide the process to several period:
 
 ### Period 1
 - [x] Realizing the basic calculator app features :iphone:
-- [ ] :man_technologist:Add $\LaTeX$ support :black_nib:
+- [ ] :man_technologist:(Working on this)Add LaTeX support :black_nib:
 - [ ] Add the extra feature relating to calculating, such as programming mode, calling convert and exchange rate:currency_exchange:
 
 ### Period 2
